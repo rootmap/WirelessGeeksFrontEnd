@@ -1,0 +1,416 @@
+Return-path: <firstparts2013@gmail.com>
+Envelope-to: admin@wireless-geeks.com
+Delivery-date: Thu, 28 Nov 2013 05:32:28 -0700
+Received: from [209.85.192.194] (port=35890 helo=mail-pd0-f194.google.com)
+	by host212.hostmonster.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <firstparts2013@gmail.com>)
+	id 1Vm0lg-0000lU-CQ
+	for admin@wireless-geeks.com; Thu, 28 Nov 2013 05:32:28 -0700
+Received: by mail-pd0-f194.google.com with SMTP id g10so3748516pdj.9
+        for <admin@wireless-geeks.com>; Thu, 28 Nov 2013 04:32:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:from:to:reply-to:subject:mime-version:message-id:content-type;
+        bh=U+sazG9i/XZDnwa/x6ow4vaedQcSg6cI0b90IqFYY5g=;
+        b=jO6q375W4KHK+wQKP1TpoHc3XPM3QOW12DjDyQROizYI52RwQLmqqHKxf8+IlYccsL
+         hyRHuFElH9bhqsTPluZ8Tu0lYePIoqW65ZJsgRBegsgrqmZQa1h/00Bji6c1fUdU9C9l
+         n340sl2jMn7KXVYFe0x8WuKWbWq2X5V3qEb0h1sCFJMne3GwxGmqRao108maJNVAgw6W
+         8KJhAzdudG4La6ceFMoSo2ZvA3pv97JFhjVpLkY+CtoThYqlPzISHb0mIYgfLOTj9Czl
+         uxg5vbHbG3tj6KFuUHbxCsXiFv1QDwxsYVhrabgo5PRhs3Zmw9wP4qjjbZ2uP3BEtAPW
+         6JIw==
+X-Received: by 10.66.119.136 with SMTP id ku8mr27353218pab.121.1385641947178;
+        Thu, 28 Nov 2013 04:32:27 -0800 (PST)
+Received: from acer-PC ([183.15.43.142])
+        by mx.google.com with ESMTPSA id zq10sm107502326pab.6.2013.11.28.04.32.23
+        for <admin@wireless-geeks.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Thu, 28 Nov 2013 04:32:26 -0800 (PST)
+Date: Thu, 28 Nov 2013 20:31:59 +0800
+From: Firstiparts <firstparts2013@gmail.com>
+To: admin <admin@wireless-geeks.com>
+Reply-To: firstparts2013 <firstparts2013@gmail.com>
+Subject: Re:iphone4&5 Otterbox cases for refer
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7.0.1.92[cn]
+Mime-Version: 1.0
+Message-ID: <20131128203147762083150@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart288348275013_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart288348275013_=----
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+SGVsbG8sDQpXZSBhcmUgd2hvbGVzYWxlciBvZiBpcGhvbmUvaXBhZCByZXBhaXIgcGFydHMgYW5k
+IGFjY2Vzc29yaWVzIGZyb20gQ2hpbmEuDQpBcyB0aGUgQmxhY2sgRnJpZGF5IGFuZCBDaHJpc3Rt
+YXMgaXMgY29taW5nIHNvb24sdG8gZmVlZGJhY2sgdGhlIGN1c3RvbWVycy4NCk91ciBpcGhvbmUg
+cGFydHMgZm9yIHByb21vdGlvbixCZXNpZGVzIHRoaXMseW91IHdpbGwgZ2V0IGEgMS41JSBzcGVj
+aWFsIGRpc2NvdW50IGlmIHlvdSBvcmRlciB0aGlzIG1vbnRoLg0KYSlpcGhvbmUvU2Ftc3VuZyBD
+YXNlczoNCmlwaG9uZSA0LzUgZnJlIExpZmVwcm9vZiBDYXNlcy0tVVMkOC4yDQppcGhvbmUgNXMv
+NWMgT3R0ZXJib3ggRGVmZW5kZXIgQ2FzZXMtLS1VUyQ4LjUvUEMNCmlwaG9uZSA0LzRzIE90dGVy
+Ym94IENvbW11dGVyIENhc2VzLS0tVVMkNC41NQ0KaXBob25lIDQvNHMgT3R0ZXJib3ggRGVmZW5k
+ZXIgQ2FzZXMtLS1VUyQ1Ljg1DQppcGhvbmUgNSBPdHRlcmJveCBDb21tdXRlciBDYXNlcy0tLVVT
+JDQuODUNCmlwaG9uZSA1IE90dGVyYm94IERlZmVuZGVyIENhc2VzLS0tVVMkNi41DQpiKWlwaG9u
+ZS9pcGFkIHJlcGFpciBwYXJ0czoNCmlwaG9uZSA1IE9FTSBsY2Qgc2NyZWVuLS0tVVMkNjYgZm9y
+IHdoaXRlLFVTJDY5IGZvciBibGFjaw0KaXBob25lIDQvNHMgaGFsZiBvcmlnaW5hbCBsY2Qgc2Ny
+ZWVuLS0tVVMkMjQuOTkgDQppcGhvbmUgNC80cyBmdWxsIG9yaWdpbmFsIGxjZCBzY3JlZW4tLS1V
+UyQzNA0KaXBob25lIDQvNHMgYmFjayBnbGFzcy0tLVVTJDIuMjkoNFMmR1NNKQ0KNEcvQ0RNQS80
+UyBOb3JtYWwgQ29sb3IgU2NyZWVuIEtpdHMtLS1VUyQyOS45OSANCmlwb2QgdG91Y2g0IExjZCBz
+Y3JlZW4tLS1VUyQxNy45IChibGFjay93aGl0ZSkNCmlwYWQgMiBkaWdpdGl6ZXItLS1VUyQxOS41
+NSAoYmxhY2svd2hpdGUpDQppcGFkIDMgZGlnaXRpemVyLS0tVVMkMjUuNTAgKGJsYWNrL3doaXRl
+KQ0KYylBY2Nlc3NvcmllczoNCjMtaW4tMSBVU0IgQ2FibGUgZm9yIGlwaG9uZSAmIFNhbXN1bmct
+LS1VUyQyLjkvcGMNCmlwaG9uZSA0LzRzIGNvbG9yIDFtIFVTQiBDYWJsZS0tLVVTJDEuMjUvUEMg
+DQppcGhvbmUgNC80cyBjb2xvciAybSBVU0IgQ2FibGUtLS1VUyQxLjUvUEMNCmlwaG9uZSA1IGNv
+bG9yIDFtIFVTQiBDYWJsZS0tLVVTJDEuNi9QQw0KaXBob25lIDUgY29sb3IgMm0gVVNCIENhYmxl
+LS0tVVMkMS45L1BDDQppcGhvbmUgQ29sb3IgMUEgVVNCIENoYXJnZXItLS1VUyQyLjE5L3BjDQoN
+ClBseiBjaGVjayBvdXIgcHJvbW90aW9uIHBhcnRzIGFuZCBkb24ndCBtaXNzIGl0LHRpbWluZyB0
+byBvcmRlciBmb3Igc3RvY2suDQpBbHNvIHN1cHBseSBCZWF0cyBBdWRpbyBhbmQgR3JpZmZpbi9M
+dW5hdGlrIENhc2VzLHBseiBhc2sgZm9yIGRldGFpbHMgaWYgeW91IGhhdmUgZGVtYW5kLg0KTmlj
+b2xlDQoNCg0KDQpFbWFpbDogbmljb2xlemhhbmcwNDExQGdtYWlsLmNvbQ0KU2t5cGU6IG5pY29s
+ZS56aGFuZzA0MTEgDQp3d3cuZmFjZWJvb2suY29tL2ZpcnN0aXBhcnRzDQpBZGQ6IExvbmdzaGVu
+ZyBQYXJ0cyBDZW50cmUsSHVhcWlhbmdiZWksRnV0aWFuU2hlbnpoZW4sQ2hpbmEu
+------=_001_NextPart288348275013_=----
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><FMDATA content=3D""></FMDATA><FMDATA content=3D""></FMDATA><F=
+MDATA=20
+content=3D""></FMDATA>
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<STYLE>
+BLOCKQUOTE {
+	MARGIN-BOTTOM: 0px; MARGIN-LEFT: 2em; MARGIN-TOP: 0px
+}
+OL {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+UL {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+BODY {
+	FONT-SIZE: 10.5pt; FONT-FAMILY: &#23435; COLOR: #000000; LINE-HEIGHT: 1.5=
+; 20307:=20
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16736"></HEAD>
+<BODY style=3D"MARGIN: 10px">
+<DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"FONT-FAMILY: "></SPAN><SPAN style=3D"FONT-FAMILY: "></SPAN><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><SPAN=20
+style=3D"FONT-FAMILY: =CE=A2=C8=ED=D1=C5=BA=DA"></SPAN>Hello,</SPAN></DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000">We=20
+are wholesaler of iphone/ipad repair parts and accessories from=20
+China.</DIV></DIV>
+<DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">As the Black Friday an=
+d=20
+Christmas is coming soon,to feedback the customers.</DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Our iphone parts for=20
+promotion,Besides this,you will get a 1.5% special discount if you order t=
+his=20
+month.</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold">a)iphone=
+/Samsung=20
+Cases:</DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">iphone=20
+4/5&nbsp;fre&nbsp;Lifeproof Cases--<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$8.2</SPA=
+N></DIV>
+<DIV><SPAN style=3D"COLOR: #ff0000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">iphone 5s/5=
+c=20
+Otterbox Defender Cases---</SPAN>US$8.5/PC</SPAN></SPAN></DIV>
+<DIV><FONT style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma" size=3D1 face=3D=
+"">iphone=20
+4/4s Otterbox Commuter Cases---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$4.55</SP=
+AN></FONT></DIV>
+<DIV><FONT style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma" size=3D1 face=3D=
+"">iphone=20
+4/4s&nbsp;Otterbox Defender Cases---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$5.85</SP=
+AN></FONT></DIV>
+<DIV><FONT face=3DArial><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: ; COLOR: #ff0000"><FONT=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma" color=3D#000000 size=3D1 fa=
+ce=3D"">iphone=20
+5 Otterbox Commuter Cases---</FONT><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$4.85</SP=
+AN></SPAN></FONT></DIV>
+<DIV><FONT face=3DArial><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: ; COLOR: #ff0000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: ; COLOR: #ff0000"><FONT=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma" color=3D#000000 size=3D1 fa=
+ce=3D"">iphone=20
+5&nbsp;Otterbox Defender Cases---</FONT><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$6.5</SPA=
+N></SPAN></SPAN></FONT></DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold">b)iphone=
+/ipad=20
+repair parts:</DIV>
+<DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">iphone=
+ 5=20
+OEM&nbsp;lcd screen---<SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$66<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"> for=20
+white,</SPAN>US$69 <SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">for=20
+black</SPAN></SPAN></SPAN><SPAN style=3D"COLOR: #ff0000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"></DIV></SPA=
+N></SPAN>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">iphone=
+ 4/4s=20
+half original lcd screen---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$24.99=20
+</SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000"><FONT=20
+color=3D#000000>iphone 4/4s&nbsp;full original lcd screen---</FONT><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$34</SPAN=
+></SPAN></DIV></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">iphone=
+ 4/4s=20
+back glass---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$2.29</SP=
+AN>(4S&amp;GSM)</SPAN></DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">4G/CDMA/4S&=
+nbsp;Normal=20
+Color&nbsp;Screen Kits---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$29.99=20
+</SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">ipod t=
+ouch4=20
+Lcd screen---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$17.9 <SP=
+AN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">(black/whit=
+e)</SPAN></SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">ipad 2=
+=20
+digitizer---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$19.55=20
+</SPAN>(black/white)</SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000">ipad&n=
+bsp;3=20
+digitizer---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$25.50=20
+</SPAN>(black/white)</SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000">c)Accessories:</SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">3-in-1=
+ USB=20
+Cable for iphone &amp; Samsung---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$2.9</SPA=
+N>/pc</SPAN></SPAN></SPAN></SPAN></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">iphone=
+ 4/4s=20
+color 1m USB Cable---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$1.25</SP=
+AN>/PC</SPAN>=20
+
+<DIV style=3D"FONT-SIZE: 10pt"><SPAN style=3D"FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">iphone=
+ 4/4s=20
+color 2m USB Cable---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$1.5</SPA=
+N>/PC</SPAN></SPAN></DIV>
+<DIV><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">iphone=
+&nbsp;5=20
+color 1m USB Cable---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$1.6</SPA=
+N>/PC</SPAN></DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">iphone=
+&nbsp;5=20
+color 2m USB Cable---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$1.9</SPA=
+N>/PC</SPAN></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-WEIGHT: normal"><SPAN style=3D"FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">iphone=
+ Color=20
+1A USB Charger---<SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ff0000">US$2.19</SP=
+AN>/pc</SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></DIV></SPAN></SPAN></DIV>=
+</DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal"></SPAN=
+></SPAN></SPAN>&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Plz check our promotio=
+n parts=20
+and don't miss it,timing to order for stock.</DIV></DIV></DIV>
+<DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-WEIGHT: normal"><SPAN style=3D"FONT-WEIGHT: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal">Also s=
+upply=20
+Beats Audio and Griffin/Lunatik Cases,plz ask for details if you have=20
+demand.</SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></DIV></DIV>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Nicole</DIV>
+<HR style=3D"HEIGHT: 1px; WIDTH: 210px" align=3Dleft color=3D#b5c4df SIZE=
+=3D1>
+
+<DIV><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000"><FONT=20
+color=3D#1f497d><SPAN style=3D"FONT-WEIGHT: normal; COLOR: #000000"><FONT=20
+size=3D3><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"COLOR: #1f497d"><SPAN style=3D"FONT-FAMILY: Arial Black"><SPAN=20
+style=3D"FONT-FAMILY: Arial; COLOR: #1f497d"><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK542"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+51"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK554"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+59"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK560"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+61"><SPAN=20
+lang=3DEN-US=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000; mso-font-kerning: 0pt"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000">Email:=20
+<A=20
+href=3D"mailto:nicolezhang0411@gmail.com">nicolezhang0411@gmail.com</A></S=
+PAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN>=
+</SPAN></SPAN></FONT></SPAN></FONT></SPAN></DIV>
+<DIV><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000"><FONT=20
+color=3D#1f497d><SPAN style=3D"FONT-WEIGHT: normal; COLOR: #000000"><FONT=20
+size=3D3><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"COLOR: #1f497d"><SPAN style=3D"FONT-FAMILY: Arial Black"><SPAN=20
+style=3D"FONT-FAMILY: Arial; COLOR: #1f497d"><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK542"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+51"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK554"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+59"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK560"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+61"><SPAN=20
+lang=3DEN-US=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000; mso-font-kerning: 0pt"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN><=
+/SPAN></SPAN></SPAN></SPAN></FONT></SPAN></FONT></SPAN><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000"><FONT=20
+color=3D#1f497d><SPAN style=3D"FONT-WEIGHT: normal; COLOR: #000000"><FONT=20
+size=3D3><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"COLOR: #1f497d"><SPAN style=3D"FONT-FAMILY: Arial Black"><SPAN=20
+style=3D"FONT-FAMILY: Arial; COLOR: #1f497d"><SPAN=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK542"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+51"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK554"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+59"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK560"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+61"><SPAN=20
+lang=3DEN-US=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000; mso-font-kerning: 0pt">Skype:=20
+nicole.zhang0411</SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN><SPAN=20
+style=3D"FONT-SIZE: 10pt"> </SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FON=
+T></DIV>
+<DIV><FONT size=3D3><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000">www.facebook.com/firstiparts</SPAN></FONT><FONT=20
+size=3D3><SPAN style=3D"COLOR: #1f497d"><SPAN style=3D"FONT-FAMILY: Arial =
+Black"><SPAN=20
+style=3D"FONT-FAMILY: Arial; COLOR: #1f497d"><SPAN=20
+style=3D"FONT-WEIGHT: normal; COLOR: #000000"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK542"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+51"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK554"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+59"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK560"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+61"><SPAN=20
+lang=3DEN-US=20
+style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000; mso-font-kerning: 0pt"><SPAN=20
+style=3D"FONT-SIZE: 10.5pt; FONT-FAMILY: =CB=CE=CC=E5; COLOR: #000000"><SP=
+AN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000"><SPAN=20
+style=3D"FONT-WEIGHT: bold"><SPAN style=3D"FONT-WEIGHT: bold; COLOR: #1f49=
+7d"><SPAN=20
+style=3D"FONT-FAMILY: =D0=C2=CB=CE=CC=E5"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><BR></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SP=
+AN></SPAN></SPAN></SPAN></SPAN><SPAN=20
+style=3D"mso-bookmark: OLE_LINK542"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+51"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK554"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+59"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK560"><SPAN style=3D"mso-bookmark: OLE_LINK5=
+61"><SPAN=20
+lang=3DEN-US=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000; mso-font-kerning: 0pt"><SPAN=20
+style=3D"FONT-SIZE: 10.5pt; FONT-FAMILY: =CB=CE=CC=E5; COLOR: #000000"><SP=
+AN=20
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: bold; COLOR: #=
+000000"><SPAN=20
+style=3D"FONT-WEIGHT: bold"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000"><SPAN=20
+style=3D"FONT-WEIGHT: bold"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; FONT-WEIGHT: normal; COLOR:=
+ #000000">Add:=20
+Longsheng Parts=20
+Centre,Huaqiangbei,FutianShenzhen,China.</SPAN></SPAN></SPAN></SPAN></SPAN=
+></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></S=
+PAN></SPAN></FONT></DIV></SPAN></FONT></SPAN></BODY></HTML>
+
+------=_001_NextPart288348275013_=------
+

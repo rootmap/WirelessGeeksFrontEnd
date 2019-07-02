@@ -1,0 +1,114 @@
+head	1.7;
+access;
+symbols;
+locks
+	wirelev6:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2013.11.02.18.09.43;	author wirelev6;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2012.12.13.23.50.50;	author wirelev6;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2012.01.06.18.59.41;	author wirelev6;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2011.12.13.20.38.39;	author wirelev6;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2011.10.27.15.04.40;	author wirelev6;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2011.10.27.15.04.24;	author wirelev6;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.04.28.15.26.43;	author wirelev6;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@justindabish:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/justindabish:/bin/noshell
+apps:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/apps:/bin/noshell
+paybill:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/paybill:/bin/noshell
+admin:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/admin:/bin/noshell
+rameen:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/rameen:/bin/noshell
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+justin:x:1865:1866::/home2/wirelev6/mail/wireless-geeks.com/justin:/bin/noshell
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@

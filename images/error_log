@@ -1,0 +1,2 @@
+[20-Mar-2019 00:45:43 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home2/wirelev6/public_html/images/Evl.php(2) : eval()'d code(9) : eval()'d code(8) : eval()'d code(9) : eval()'d code on line 9
+[20-Mar-2019 00:45:46 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home2/wirelev6/public_html/images/Evl.php(2) : eval()'d code(9) : eval()'d code(8) : eval()'d code(9) : eval()'d code on line 9

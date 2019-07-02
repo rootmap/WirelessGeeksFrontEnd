@@ -1,0 +1,243 @@
+Return-path: <hennycshidworld@gmail.com>
+Envelope-to: admin@wireless-geeks.com
+Delivery-date: Sun, 01 Dec 2013 22:47:22 -0700
+Received: from [209.85.160.65] (port=50538 helo=mail-pb0-f65.google.com)
+	by host212.hostmonster.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <hennycshidworld@gmail.com>)
+	id 1VnMLq-0000Q0-DZ
+	for admin@wireless-geeks.com; Sun, 01 Dec 2013 22:47:22 -0700
+Received: by mail-pb0-f65.google.com with SMTP id rq2so8664515pbb.4
+        for <admin@wireless-geeks.com>; Sun, 01 Dec 2013 21:47:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:from:to:subject:mime-version:message-id:content-type;
+        bh=lLLolzU4l6yiUmA+3A8IcV32qN1n12Sljo+WL47EjVw=;
+        b=SX2+oKP5YT35k+m879yPO5O1kNsMZY1zSodUwn4T37Nqh02TVXmyn/wBPRvabP1YXw
+         KKITFe0QTAN1OQGgD7gB4CxoQoM+NHx1hFt3XoCnJnf2Jb2i8b88OA1ydC7tlWCcauh3
+         qJKc5U6l/5ddVIFB7uhPBIBqkxda+i3fjdwqY8QO4BkbWquWdUGb+PNyQt5I1Tycfu9Y
+         qDCLHuKY+VkUaPqerdYQw9AihR2RtsSOXTrrRkGrJrv4gvpKSkqnLJE3LsoKjixh4p6H
+         IesZFTdpZxmUOFj21X+LQvxXYc7CQosNkifVotlE1koQj/GChT8+GmJqXoh2yQWrtyGP
+         znqg==
+X-Received: by 10.68.6.66 with SMTP id y2mr29059817pby.60.1385963241617;
+        Sun, 01 Dec 2013 21:47:21 -0800 (PST)
+Received: from CSHID004 ([98.126.218.200])
+        by mx.google.com with ESMTPSA id gh3sm119606345pbb.2.2013.12.01.21.47.19
+        for <admin@wireless-geeks.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 01 Dec 2013 21:47:20 -0800 (PST)
+Date: Mon, 2 Dec 2013 13:47:19 +0800
+From: "hennycshidworld@gmail.com" <hennycshidworld@gmail.com>
+To: admin <admin@wireless-geeks.com>
+Subject: Have you got my mail?
+X-Priority: 3
+X-GUID: BEB1A68F-BEEA-46C0-B993-CB1192E58F51
+X-Has-Attach: no
+X-Mailer: Foxmail 7, 1, 3, 52[cn]
+Mime-Version: 1.0
+Message-ID: <2013120213471760622118@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart282053170774_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart282053170774_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+ICANCkRlYXIgRnJpZW5kLA0KIA0KV2Whr3JlIENzaGlkd29ybGQgVGVjaG5vbG9neSBDb21wYW55
+LCBDaGluYSB3aGljaCBwcm92aWRlcyBpUGhvbmUgcGFydHMuIA0KIA0KQXMgYSBwcm9mZXNzaW9u
+YWwgc3VwcGxpZXIsIHdlIHBheSBhdHRlbnRpb24gdG8gcHJvZHVjdHOhryBxdWFsaXR5IGFuZCBz
+ZXJ2aWNlOg0KIA0KMS4gICAgYWxsIHBhcnRzIHdpbGwgYmUgdGVzdCBiZWZvcmUgc2hpcHBpbmcs
+IHRoZSBkZWZlY3RpdmUgcmF0ZSBpcyB2ZXJ5IGxvdzsNCjIuICAgIHRoZSB3YXJyYW50eSB0aW1l
+IGlzIDE4MCBkYXlzOw0KMy4gICAgSWYgdGhlIHBhcnRzIGlzIGJyb2tlbiwgeW91IGRvbqGvdCBu
+ZWVkIHRvIHNlbmQgaXQgYmFjaywgd2Whr2xsIHRha2UgdGhlIHByb2JsZW1zIG9uY2UgY29uZmly
+bSB3ZSBkaWQgdGhlIG1pc3Rha2VzLg0KIA0KQ29udGFjdCBtZSwgbGV0oa9zIHRhbGsgaW4gZGV0
+YWlscy4NCiANCg0KDQoNClRoYW5rIHlvdSBhbmQga2luZCByZWdhcmRzIA0KDQpIZW5ueSBIdWFu
+Zw0KTWFpbDogICAgICAgaGVubnljc2hpZHdvcmxkQGdtYWlsLmNvbQ0KVGVsOiAgICAgICAgKzg2
+IDEzMCAyNjYzIDg1NzkNClNreXBlOiAgICBoZW5ueWNzaGlkd29ybGQNCkZhY2Vib29rOmhlbm55
+Y3NoaWR3b3JsZEAxNjMuY29tDQpXZWJzaXRlOiBodHRwOi8vd3d3LmNzaGlkd29ybGQuY29tLw==
+
+------=_001_NextPart282053170774_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office"><HEAD>
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<STYLE>
+BLOCKQUOTE {
+	MARGIN-BOTTOM: 0px; MARGIN-LEFT: 2em; MARGIN-TOP: 0px
+}
+OL {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+UL {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+BODY {
+	FONT-SIZE: 10.5pt; FONT-FAMILY: =CE=A2=C8=ED=D1=C5=BA=DA; COLOR: #000000;=
+ LINE-HEIGHT: 1.5; 557: ; 1093: ; 1723:=20
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.16428"></HEAD>
+<BODY style=3D"FONT-SIZE: 10pt; FONT-FAMILY: verdana; MARGIN: 10px">
+<DIV>&nbsp; <SPAN style=3D"mso-bookmark: OLE_LINK4"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK7"><SPAN style=3D"mso-bookmark: OLE_LINK12"=
+><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"'>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt'><SPAN=20
+style=3D"FONT-SIZE: 11pt">Dear Friend,</SPAN><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt'><o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>We=A1=AFre=20
+Cshidworld Technology Company, China which provides iPhone parts. <o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt'><o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>As=20
+a professional supplier, we pay attention to products=A1=AF quality and se=
+rvice:<o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt'><o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-char-indent-cou=
+nt: 0; mso-list: l0 level1 lfo1"><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: Arial; mso-bidi-font-size: 11.0pt'><SPAN=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-list: Ignore'>1.<SPAN=20
+style=3D'COLOR: #000000; FONT: 11pt "Arial","sans-serif"'>&nbsp;&nbsp;&nbs=
+p;=20
+</SPAN></SPAN></SPAN><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>all&nbsp;parts=20
+will be test before shipping, the defective rate is very low;<o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-char-indent-cou=
+nt: 0; mso-list: l0 level1 lfo1"><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: Arial; mso-bidi-font-size: 11.0pt'><SPAN=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-list: Ignore'>2.<SPAN=20
+style=3D'COLOR: #000000; FONT: 11pt "Arial","sans-serif"'>&nbsp;&nbsp;&nbs=
+p;=20
+</SPAN></SPAN></SPAN><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>the=20
+warranty time is 180 days;<o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-char-indent-cou=
+nt: 0; mso-list: l0 level1 lfo1"><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: Arial; mso-bidi-font-size: 11.0pt'><SPAN=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-list: Ignore'>3.<SPAN=20
+style=3D'COLOR: #000000; FONT: 11pt "Arial","sans-serif"'>&nbsp;&nbsp;&nbs=
+p;=20
+</SPAN></SPAN></SPAN><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>If=20
+the&nbsp;parts is broken, you don=A1=AFt need to send it back, we=A1=AFll =
+take the=20
+problems once confirm we did the mistakes.<o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt'><o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"; mso-bidi-font-size: 11.0pt=
+'>Contact=20
+me, let=A1=AFs talk in details.<o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"></SPAN></SPAN></SPAN></=
+SPAN><SPAN 
+style=3D"mso-bookmark: OLE_LINK3"><SPAN style=3D"mso-bookmark: OLE_LINK4">=
+<SPAN=20
+style=3D"mso-bookmark: OLE_LINK7"><SPAN style=3D"mso-bookmark: OLE_LINK12"=
+><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; mso-fareast-f=
+ont-family: "Arial Unicode MS"'><o:p=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'></o:p></SPAN></SPAN></SPAN></SPAN></SPAN>&nbsp;</P></DIV>
+<HR style=3D"HEIGHT: 1px; WIDTH: 210px" align=3Dleft color=3D#b5c4df SIZE=
+=3D1>
+
+<DIV=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0'><SPAN>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: verdana">
+<DIV>
+<DIV>Thank you and&nbsp;kind regards </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Henny Huang</DIV>
+<DIV>Mail:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <A=20
+href=3D"mailto:hennycshidworld@gmail.com">hennycshidworld@gmail.com</A></D=
+IV>
+<DIV>Tel: &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;+86 130 2663 8579</DIV>
+<DIV>Skype:&nbsp;&nbsp;&nbsp;&nbsp;hennycshidworld</DIV>
+<DIV>Facebook:hennycshidworld@163.com</DIV>
+<DIV>Website: http://www.cshidworld.com/</DIV></DIV></DIV></SPAN><SPAN=20
+style=3D"mso-bookmark: OLE_LINK3"><SPAN style=3D"mso-bookmark: OLE_LINK4">=
+<SPAN=20
+style=3D"mso-bookmark: OLE_LINK7"><SPAN style=3D"mso-bookmark: OLE_LINK12"=
+><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"'>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt"><SPAN=20
+style=3D"mso-bookmark: OLE_LINK3"><SPAN style=3D"mso-bookmark: OLE_LINK4">=
+<SPAN=20
+style=3D"mso-bookmark: OLE_LINK7"><SPAN style=3D"mso-bookmark: OLE_LINK12"=
+><SPAN=20
+lang=3DEN-US=20
+style=3D'FONT-SIZE: 11pt; FONT-FAMILY: "Arial","sans-serif"; COLOR: #00000=
+0; mso-fareast-font-family: "Arial Unicode MS"'></SPAN></SPAN></SPAN></SPA=
+N></SPAN>&nbsp;</P></SPAN></SPAN></SPAN></SPAN></SPAN></DIV></BODY></HTML>
+
+------=_001_NextPart282053170774_=------
+

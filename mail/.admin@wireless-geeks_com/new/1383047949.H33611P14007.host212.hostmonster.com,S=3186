@@ -1,0 +1,58 @@
+Return-path: <justincshid@gmail.com>
+Envelope-to: admin@wireless-geeks.com
+Delivery-date: Tue, 29 Oct 2013 05:59:09 -0600
+Received: from [209.85.220.49] (port=35864 helo=mail-pa0-f49.google.com)
+	by host212.hostmonster.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <justincshid@gmail.com>)
+	id 1Vb7wy-0003dL-SF
+	for admin@wireless-geeks.com; Tue, 29 Oct 2013 05:59:08 -0600
+Received: by mail-pa0-f49.google.com with SMTP id lj1so8673428pab.36
+        for <admin@wireless-geeks.com>; Tue, 29 Oct 2013 04:59:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:from:to:subject:message-id:mime-version:content-type
+         :content-transfer-encoding;
+        bh=EiaBRxgC3WdPckMPoALeiyNM40sN1NjzcKlilJEbgis=;
+        b=rWpDKF8Dc7WEI8FBmq2oNCiaWIZvObaYVHo1O3XzLXRnh7FvP9mbqDQjdTA6Kn4WlH
+         09mWIurq5ekMJ+tZ72px8Dq8ceULVqsOooJdQC1geolZ6XyqJjtYVNWxmvinxrt4fLf0
+         IqZoYb32CBdwT0cHKDTDJSuwnmwIFjB+WktV0GAPUrOoBIjLwKyZmoSeEy1QfYVXR5Lc
+         N5LA9PnrTPuWdV9/z+gNujuMY3+Zq2iHcB7my4jqN5Dc9ixW4SssjG2GRcEz+R0RTVv9
+         aGiPGgR56cu+XSgLBz8RCFDaunkmf/TZwjS3rq6YV6ePevS40Ej9kX1nkqJN7RMZHJt9
+         OE0g==
+X-Received: by 10.68.191.3 with SMTP id gu3mr1119668pbc.142.1383047945617;
+        Tue, 29 Oct 2013 04:59:05 -0700 (PDT)
+Received: from CSHID001 ([174.139.38.246])
+        by mx.google.com with ESMTPSA id fe5sm34491311pbc.32.2013.10.29.04.59.03
+        for <admin@wireless-geeks.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Tue, 29 Oct 2013 04:59:04 -0700 (PDT)
+Date: Tue, 29 Oct 2013 19:59:01 +0800
+From: "justincshid" <justincshid@gmail.com>
+To: "admin" <admin@wireless-geeks.com>
+Subject: Forgive me please
+Message-ID: <201310291958590011115@gmail.com>
+X-mailer: Foxmail 6, 15, 201, 26 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: base64
+
+Rm9yZ2l2ZSBtZSBwbGVhc2VIZWxsbyBGcmllbmQsIA0KDQoiWW91ciBpUGhvbmUgc2NyZWVuIGlz
+IG5vdCBhcyBnb29kIGFzIG90aGVycyIgIEhvdyBvZnRlbiBpcyB0aGlzIGNvbXBsYWludCByZXBl
+YXRlZCBpbiB5b3VyIHN0b3JlPyBZb3VyIHRpbWUgaXMgdmFsdWFibGWXeW91ciBvdmVyaGVhZCBl
+eHBlbnNlIHJ1bnMgb26XYW5kIGl0IGNvc3RzIHlvdSByZWFsIG1vbmV5IHRvIHNlbmQgaXQgYmFj
+ayB0byBzdXBwbGllci4NCg0KIE5vISBZb3VyIGJlc3QgY2hvaWNlIGlzIENTSElELiBQYXVsIFRy
+YWlsbCB3aG8gc2VydmluZyBmb3IgdWstcmVwYWlyLmNvbSBiZWNhdXNlLCBhcyBoZSBzYWlkLCBl
+dmVyeXRoaW5nIGhhZCBiZWVuIEFBQSBxdWFsaXR5LCBjb252ZW5pZW50IGRlbGl2ZXJ5ICgzLTQg
+ZGF5cywgREhMKSBhbmQgZXhjZWxsZW50IGFmdGVyLXNhbGVzIHNlcnZpY2UuIFRoZXJlIGFyZSB0
+aW1lcyB3aGVuIHdlIGFsbCBiZWdpbiB0byBmZWVsIHRoYXQgd2luLXdpbiByZWxhdGlvbnNoaXAg
+aXMgYWJvdXQgYXMgcGVyZmVjdCBhcyBtYW4gY2FuIG1ha2UgaXQuIA0KDQogSWYgeW91IGFyZSBp
+biB0aGVzZSB0cm91YmxlcyBvciBwbGFubmluZyB0byBmaW5kIGEgcHJvZmVzc2lvbmFsIGNlbGwg
+cGhvbmUgcGFydHMgc3VwcGxpZXIuIERvbid0IGxldCB0aGlzIGxldHRlciBiZSBjb3ZlcmVkIHVw
+IG9uIHlvdXIgZGVzay4gT3IgeW91IHdpbGwgbWlzcyBhIGdvb2QgY2hhbmNlIHRvIGltcHJvdmUg
+eW91ciBidXNpbmVzcyENCg0KRnJvbSBKdXN0aW4NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQp3
+d3cuY3NoaWR3b3JsZC5jb20NClNreXBlOiBqdXN0aW53Y2oNCkZhY2Vib29rOiBKdXN0aW4gcGV0
+ZXJyDQpQaG9uZTorODYgNzU1IDgzMDAgNTA3NQ0KDQo=
+

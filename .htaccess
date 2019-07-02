@@ -1,0 +1,25 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    Options +FollowSymLinks
+    RewriteEngine On
+     
+    RewriteCond %{SCRIPT_FILENAME} !-d
+    RewriteCond %{SCRIPT_FILENAME} !-f
+     
+    RewriteRule ^home$ ./index.php
+    RewriteRule ^About-us$ ./about.php
+    RewriteRule ^contact-us$ ./contact.php
+    RewriteRule ^Additional-Services$ ./additional-services.php
+    RewriteRule ^AD-SE/(.*)/(.*)$ ./additional-services-detail.php?id=$1
+    RewriteRule ^repair/(.*)/(.*)$ ./igeek-repair.php?id=$1
+    RewriteRule ^device-repair/(.*)/(.*)$ ./igeek-repair-device-version.php?id=$1
+    RewriteRule ^other-device-problem/(.*)/(.*)$ ./igeek-repair-other-device-problem.php?id=$1
+    RewriteRule ^stores$ ./igeek-store.php
+    RewriteRule ^store/(.*)/(.*)$ ./igeek-store.php?id=$1
+    RewriteRule ^Page/(.*)/(.*)$ ./igeek-pages.php?id=$1
+    RewriteRule ^contact-us/submit$ ./cm.php
+    RewriteRule ^Find-Device$ ./find-brandwise-device.php
+</IfModule>

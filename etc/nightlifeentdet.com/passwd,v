@@ -1,0 +1,40 @@
+head	1.2;
+access;
+symbols;
+locks
+	wirelev6:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2011.06.09.14.30.07;	author wirelev6;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.05.26.09.45.12;	author wirelev6;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@lisa:x:1865:1866::/home2/wirelev6/mail/nightlifeentdet.com/lisa:/bin/noshell
+justin:x:1865:1866::/home2/wirelev6/mail/nightlifeentdet.com/justin:/bin/noshell
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@

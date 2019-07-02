@@ -1,0 +1,83 @@
+<IfModule mod_rewrite.c>
+
+#AddHandler application/x-httpd-php53 .css
+ErrorDocument 404 /404
+#ErrorDocument 500 http://localhost/ticketchai-ori/500/
+# or map them to one error document:
+# ErrorDocument 404 /pages/errors/error_redirect.php
+# ErrorDocument 500 /pages/errors/error_redirect.php
+
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ 404.php [L]
+
+RewriteRule ^404$ 404.php [L]
+RewriteRule ^home$ index.php [L]
+RewriteRule ^index$ index.php [L]
+
+RewriteRule ^stores$ locations.php [L]
+RewriteRule ^console$ console.php [L]
+RewriteRule ^contact-us$ contact.php [L]
+RewriteRule ^contact-us/submit$ cm.php [L]
+RewriteRule ^contact-us/(.*)/(.*)$ contact.php?status=$1&msg=$2 [L]
+RewriteRule ^store/(.*)/(.*)$ igeek-store.php?id=$1&title=$2 [L]
+RewriteRule ^repair/(.*)/(.*)$ igeek-repair.php?id=$1&title=$2 [L]
+RewriteRule ^device-repair/(.*)/(.*)$ igeek-repair-device-version.php?id=$1&title=$2 [L]
+RewriteRule ^other-device-problem/(.*)/(.*)$ igeek-repair-other-device-problem.php?id=$1&title=$2 [L]
+RewriteRule ^about-us$ about.php [L]
+RewriteRule ^About-us$ about.php [L]
+RewriteRule ^same-day-service$ same-day-service.php [L]
+RewriteRule ^satisfaction-guaranteed$ satisfaction-guaranteed.php [L]
+RewriteRule ^find-device$ find-brandwise-device.php [L]
+RewriteRule ^find-device/$ find-brandwise-device.php [L]
+RewriteRule ^Find-Device$ find-brandwise-device.php [L]
+RewriteRule ^Find-Device/$ find-brandwise-device.php [L]
+RewriteRule ^page/(.*)/(.*)$ igeek-pages.php?id=$1&title=$2 [L]
+RewriteRule ^Page/(.*)/(.*)$ igeek-pages.php?id=$1&title=$2 [L]
+RewriteRule ^AD-SE/(.*)/(.*)$ additional-services-detail.php?id=$1&title=$2 [L]
+RewriteRule ^additional-services$ additional-services.php [L]
+RewriteRule ^Additional-Services$ additional-services.php [L]
+RewriteRule ^error$ 404.php [L]
+
+
+
+#</IfModule>
+
+#cache code from http://www.askapache.com/htaccess/speed-up-sites-with-htaccess-caching.html 
+#<ifModule mod_headers.c>
+# WEEK
+#<FilesMatch "\.(ico|gif|jpg|jpeg|png|pdf)$">
+# Header set Cache-Control "max-age=604800"
+#</FilesMatch>
+# WEEK
+#<FilesMatch "\.(js|css|swf)$">
+ # Header set Cache-Control "max-age=604800"
+#</FilesMatch>
+#</ifModule>
+
+
+## EXPIRES CACHING ##
+# ------------------------------------------------------------------------------
+# | CORS-enabled images |
+# ------------------------------------------------------------------------------
+
+    
+        <FilesMatch "\.(cur|gif|ico|jpe?g|png|svgz?|webp)$">
+            SetEnvIf Origin ":" IS_CORS
+            Header set Access-Control-Allow-Origin "http://localhost/idahopiphone/" env=IS_CORS
+        </FilesMatch>
+#        
+    
+
+# ------------------------------------------------------------------------------
+# | Web fonts access |
+# ------------------------------------------------------------------------------
+# Allow access from all domains for web fonts
+
+    <FilesMatch "\.(eot|otf|ttc|ttf|woff)$">
+        Header set Access-Control-Allow-Origin "http://localhost/idahopiphone/"
+    </FilesMatch>
+
+</IfModule>
